@@ -21,3 +21,5 @@ print(pedras)
 print("A Catapulta lançará {:.0f} pedras em {} baterias de {} minutos cada.".format(pedras, baterias, minutos))
 """
 
+nome = "Marcos"
+print(nome)
